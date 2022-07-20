@@ -1,0 +1,43 @@
+
+1. Why do computers understand only binary language?
+Ans:Computers use binary to store data. Not only because it's a reliable way of storing the data, 
+but computers only understand 1s and 0s — binary. A computer's main memory consists of transistors 
+that switch between high and low voltage levels — sometimes 5V, sometimes 0.
+
+2. What is the full form of IDE?
+Ans:An integrated development environment (IDE) is software for building applications that combines 
+common developer tools into a single graphical user interface (GUI).
+
+3. What is the difference between a text editor and a code editor?
+Ans:A text editor simply allows you to write and edit text and it does not have anything built-in 
+to help you to code whereas a code editor is also a text editor but it also helps you write code.
+
+4. What are the steps to develop software using the C language?
+Ans:Step 1: Download Dev/C++ ...
+Step 2: Install Dev/C++ ...
+Step 3: Create First Project. ...
+Step 4: Write Your Program. ...
+Step 5: Save and Compile Code. ...
+Step 6: Run Your Code. ...
+Step 7: More Resources.
+
+5. Explore by your own
+
+1. What is the latest version of C Language?
+Ans:C17
+C17. Published in June 2018 as ISO/IEC 9899:2018, 
+C17 is the current standard for the C programming language.
+
+2. Who developed C Language?
+Ans:C, computer programming language developed in the early 1970s by American computer scientist
+Dennis M. Ritchie at Bell Laboratories 
+
+3. What is the difference between System and Application Software?
+Ans. The system software is used for operating computer hardware. On the other hand Application 
+software are installed according to user's requirements.
+
+4. How to convert a number from a decimal number system to a binary number system?
+Ans:Take decimal number as dividend. Divide this number by 2 (2 is base of binary so divisor here). 
+Store the remainder in an array (it will be either 0 or 1 because of divisor 2). Repeat the above 
+two steps until the number is greater than zero
+
